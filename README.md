@@ -1,5 +1,4 @@
 
-```markdown
 # Flutter gRPC CRUD Product App
 
 This application is a gRPC-based CRUD implementation using Flutter as the client and a gRPC server defined via a `.proto` file. The app features a single product screen with add and delete functionality via a pop-up dialog.
