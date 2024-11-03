@@ -23,13 +23,13 @@ This application is a gRPC-based CRUD implementation using Flutter as the client
 
 .grpc-flutter-product/
 ├── lib/
-│ ├── main.dart # Entry point for the Flutter application
-│ ├── product_service.dart # Service to call gRPC CRUD operations
-│ ├── screens/
-│ │ └── product_screen.dart # Main screen with product list and pop-up dialogs
-│ └── generated/ # gRPC files generated from product.proto
+│   ├── main.dart                 # Entry point for the Flutter application
+│   ├── product_service.dart      # Service to call gRPC CRUD operations
+│   ├── screens/
+│   │   └── product_screen.dart   # Main screen with product list and pop-up dialogs
+│   └── generated/               # gRPC files generated from product.proto
 └── proto/
-└── product.proto # gRPC definitions for product service and messages
+    └── product.proto            # gRPC definitions for product service and messages
 
 ````
 
