@@ -1,4 +1,3 @@
-Here’s the complete `README.md` content formatted as a single Markdown document for the Flutter gRPC CRUD Product App:
 
 ```markdown
 # Flutter gRPC CRUD Product App
