@@ -21,7 +21,7 @@ This application is a gRPC-based CRUD implementation using Flutter as the client
 ## Project Structure
 ```
 
-grpc-flutter-product/
+.grpc-flutter-product/
 ├── lib/
 │ ├── main.dart # Entry point for the Flutter application
 │ ├── product_service.dart # Service to call gRPC CRUD operations
